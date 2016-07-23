@@ -27,8 +27,7 @@ Documentation
 *   <span class="s1">[<span class="s2">Enable4Sheet</span>](https://chrome.google.com/webstore/detail/enabler-for-spreadsheets/inpioilbljppoobbblcpbpjplkefmkep?hl=en)</span>
 *   <span class="s1"><span class="s2">[Power Query for Excel - PC only](https://www.microsoft.com/en-us/download/details.aspx?id=39379)</span></span>
 *   [Data Loader](https://na33.salesforce.com/dwnld/DataLoader/ApexDataLoader.exe)
-
-*   <span class="s1">[Jesse Altman Chrome extensions](http://jessealtman.com/2013/09/useful-google-chrome-extensions-for-salesforce/)</span>
+*   [Jesse Altman Chrome extensions](http://jessealtman.com/2013/09/useful-google-chrome-extensions-for-salesforce/)
 *   [Chrome extension for reading Run test for Deployment ](https://chrome.google.com/webstore/detail/lazy-for-google-chrome/agiglidkkgindpamdcbboahbbkihbgge?hl=en/index.html)
 *   [Boostr Chrome extension](https://chrome.google.com/webstore/detail/boostr-for-salesforce/kegohbhdgaoaoanbpconbeleanhdodlo/related?hl=en-US)
 
