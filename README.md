@@ -33,6 +33,8 @@
 *   [Boostr Chrome extension](https://chrome.google.com/webstore/detail/boostr-for-salesforce/kegohbhdgaoaoanbpconbeleanhdodlo/related?hl=en-US)
 *   [PermComparator](https://perm-comparator.herokuapp.com)
 *   [Permissioner](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000008XYMlEAO)
+*   [SFToolKit](http://sftoolkit.co/) with [SF Switcher]( https://sfswitch.herokuapp.com ), Schemea List, Org Doctor, Org Compare, Package Builder
+
 
 ##SQL specific
 
