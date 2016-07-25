@@ -31,6 +31,8 @@
 *   [Jesse Altman Chrome extensions](http://jessealtman.com/2013/09/useful-google-chrome-extensions-for-salesforce/)
 *   [Chrome extension for reading Run test for Deployment ](https://chrome.google.com/webstore/detail/lazy-for-google-chrome/agiglidkkgindpamdcbboahbbkihbgge?hl=en/index.html)
 *   [Boostr Chrome extension](https://chrome.google.com/webstore/detail/boostr-for-salesforce/kegohbhdgaoaoanbpconbeleanhdodlo/related?hl=en-US)
+*   [PermComparator](https://perm-comparator.herokuapp.com)
+*   [Permissioner)(https://appexchange.salesforce.com/listingDetail?listingId=a0N30000008XYMlEAO)
 
 ##SQL specific
 
