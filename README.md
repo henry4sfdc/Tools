@@ -34,6 +34,7 @@
 *   [PermComparator](https://perm-comparator.herokuapp.com)
 *   [Permissioner](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000008XYMlEAO)
 *   [SFToolKit](http://sftoolkit.co/) with [SF Switcher]( https://sfswitch.herokuapp.com ), Schemea List, Org Doctor, Org Compare, Package Builder
+*   [Octopus](https://sfswitch.herokuapp.com/) 
 
 
 ##SQL specific
