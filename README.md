@@ -35,6 +35,7 @@
 *   [Permissioner](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000008XYMlEAO)
 *   [SFToolKit](http://sftoolkit.co/) with [SF Switcher]( https://sfswitch.herokuapp.com ), Schemea List, Org Doctor, Org Compare, Package Builder
 *   [Octopus](https://sfswitch.herokuapp.com/) 
+*   [SFDC Chrome extensions](https://chrome.google.com/webstore/search/salesforce%20?hl=en&_category=extensions)
 
 
 ##SQL specific
