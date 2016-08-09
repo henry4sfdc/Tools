@@ -35,8 +35,22 @@
 *   [Permissioner](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000008XYMlEAO)
 *   [SFToolKit](http://sftoolkit.co/) with [SF Switcher]( https://sfswitch.herokuapp.com ), Schemea List, Org Doctor, Org Compare, Package Builder
 *   [Octopus](https://sfswitch.herokuapp.com/) 
+* [SFDC Inspector](https://chrome.google.com/webstore/detail/salesforce-inspector/aodjmnfhjibkcdimpodiifdjnnncaafh?hl=en-US)
+* [SFDC API Fieldnames](https://chrome.google.com/webstore/detail/salesforce-api-fieldnames/oghajcjpbolpfoikoccffglngkphjgbo?hl=en-US)
+* [SFDC Enhanced Formula Editor](https://chrome.google.com/webstore/detail/salesforcecom-enhanced-fo/cnlnnpnjccjcmecojdhgpknalcahkhio?hl=en-US)
+* [SFDC Navigator](https://chrome.google.com/webstore/detail/salesforce-navigator/ecjmdlggbilopfkkhggmgebbmbiklcdo)
+* [SFDC Code Searcher](https://chrome.google.com/webstore/detail/salesforce-advanced-code/lnkgcmpjkkkeffambkllliefdpjdklmi?hl=en-US)
+* [SFDC MetaSearcher](https://chrome.google.com/webstore/detail/salesforce-metasearcher/ogdbjfhbckmpolflemgmahebhfbpeecj?hl=en-US)
+* [Apex Finder](https://chrome.google.com/webstore/detail/apex-finder/ioilpjglnidiadffhdpeiakbkkhbflpe?hl=en-US)
+* [Boostr for SFDC](https://chrome.google.com/webstore/detail/boostr-for-salesforce/kegohbhdgaoaoanbpconbeleanhdodlo?hl=en-US)
+* [SF Quick Metadata Lookup ](https://chrome.google.com/webstore/detail/sf-quick-metadata-lookup/SF/related?hl=en)
+* [Salesforce Helper](https://chrome.google.com/webstore/detail/salesforce-helper/abkehklnekbhbfcjgdgcfimfggepemmn?hl=en)
+* [Salesforce Coding Utility ](https://chrome.google.com/webstore/detail/salesforce-coding-utility/noiijdfibmplbakepjmedfjhfdmghbgf?hl=en)
+* [Salesforce Object Finder](https://chrome.google.com/webstore/detail/salesforce-object-finder/gdofopjmbeikonciibgfbcenjohdilap?hl=en)
+* [Salesforce.com Idle Tab Refresher](https://chrome.google.com/webstore/detail/salesforcecom-idle-tab-re/ieniiifekegolncjbmondgcengehjlnd?hl=en)
+* [Lazy](https://chrome.google.com/webstore/detail/lazy-for-google-chrome/agiglidkkgindpamdcbboahbbkihbgge?hl=en)
+* [Profile Comparator for SFDC](https://chrome.google.com/webstore/detail/profile-comparator-for-sa/ijbipklcimjilmnaffocmjkfddhpaadg)
 *   [SFDC Chrome extensions](https://chrome.google.com/webstore/search/salesforce%20?hl=en&_category=extensions)
-
 
 ##SQL specific
 
