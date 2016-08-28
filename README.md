@@ -52,7 +52,8 @@
 * [Lazy](https://chrome.google.com/webstore/detail/lazy-for-google-chrome/agiglidkkgindpamdcbboahbbkihbgge?hl=en)
 * [Profile Comparator for SFDC](https://chrome.google.com/webstore/detail/profile-comparator-for-sa/ijbipklcimjilmnaffocmjkfddhpaadg)
 * [Salesforce Autosave](https://chrome.google.com/webstore/detail/salesforce-autosave/ikhffihfnmfolponkdamnbognhnljclg)
-*   [SFDC Chrome extensions](https://chrome.google.com/webstore/search/salesforce%20?hl=en&_category=extensions)
+* [Id Clipper](https://chrome.google.com/webstore/detail/salesforcecom-id-clipper/hfiffenhnefppjhloglpebefjlbhoeai)
+* [SFDC Chrome extensions](https://chrome.google.com/webstore/search/salesforce%20?hl=en&_category=extensions)
 
 ##SQL specific
 
