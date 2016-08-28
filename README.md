@@ -23,7 +23,7 @@
 *   <span class="s1">[<span class="s2">FuseIT Explorer</span>](http://www.fuseit.com/Solutions/SFDC-Explorer/Help-SOQL-Queries.aspx)</span>
 *   <span class="s1"><span class="s2">[ForceExplorer](https://developer.salesforce.com/page/ForceExplorer)</span></span>
 *   <span class="s1">[Real Force Explorer](https://bitbucket.org/realforceexplorer/real-force-explorer/wiki/browse/) ([link](https://realforceexplorer.wordpress.com/))</span>
-*   [Event Log Viewer - Heroku Application](curl https://${instance}.salesforce.com/services/oauth2/token -d "grant_type=password" -d "client_id=3MVG99OxTyEMCQ3hSja25qIUWtJCt6fADLrtDeTQA12.liLd5pGQXzLy9qjrph.UIv2UkJWtwt3TnxQ4KhuD" -d "client_secret=3427913731283473942" -d "username=${username}" -d "password=${password}" -H "X-PrettyPrint:1" | jq -r '.access_token'`)
+*   [Event Log Viewer - Heroku Application](https://salesforce-elf.herokuapp.com/)
 *   <span class="s1">[<span class="s2">Sandbox Loader - PC only</span>](https://www.enabler4excel.com/index.php/products/sandbox-loader)</span>
 *   <span class="s1">[<span class="s2">Enabler4Excel - PC only</span>](https://www.enabler4excel.com/index.php/products/enabler4excel/enterprise-admin?id=30)</span>
 *   <span class="s1">[<span class="s2">Enable4Sheet</span>](https://chrome.google.com/webstore/detail/enabler-for-spreadsheets/inpioilbljppoobbblcpbpjplkefmkep?hl=en)</span>
